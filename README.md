@@ -1,4 +1,4 @@
-# Application of Object Oriented Methods and Semi-Supervised Machine learning Algorithms for tree counts using Geospatial Data
+# Application of Object Oriented Methods and Semi-Supervised Machine learning Algorithms for tree counts using Geospatial Data (MSc Thesis)
 
 ## Abstract
 
